@@ -9,15 +9,29 @@ My name is Rahul Lalwani and I am a Big Data and Cloud Developer. I'm from India
 [![Mail Badge](https://img.shields.io/badge/-Rahul-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rahul.lalwani124@gmail.com)
 
 - 🔭 I’m currently working at Abzooba
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: I am currently writing fast and efficient Python(:heart:) and Scala at work
+- :seedling: I am currently learning Hive and Airflow
+- :pencil: Apart from coding I also maintain a blog. You can find my articles on [Medium](https://medium.com/@rahull97)
 - 📫 How to reach me: rahul.lalwani124@gmail.com.
 - ⚡ Fun fact: I love to play and watch Football. I am avid Liverfool FC fan.
 
 #### Top Technologies
 
 [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=yellow)](#)
+[![Scala Badge](https://img.shields.io/badge/-Scala-3C873A?style=for-the-badge&labelColor=black&logo=scala&logoColor=61DBFB)](#)
 [![Spark Badge](https://img.shields.io/badge/-Spark-61DBFB?style=for-the-badge&labelColor=black&logo=ApacheSpark&logoColor=yello)](#)
+[![Kafka Badge](https://img.shields.io/badge/-Kafka-e535ab?style=for-the-badge&labelColor=black&logo=ApacheKafka&logoColor=yello)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-F0DB4F?style=for-the-badge&labelColor=black&logo=Docker&logoColor=yellow)](#)
+[![Druid Badge](https://img.shields.io/badge/-Druid-3C873A?style=for-the-badge&labelColor=black&logo=ApacheDruid&logoColor=61DBFB)](#)
+[![AWS Badge](https://img.shields.io/badge/-AWS-61DBFB?style=for-the-badge&labelColor=black&logo=AmazonAWS&logoColor=yellow)](#)
 
-<!--[![Scala Badge](https://img.shields.io/badge/-Scala-3C873A?style=for-the-badge&labelColor=black&logo=scala&logoColor=61DBFB)](#)
-[![Python Badge](https://img.shields.io/badge/-Docker-F0DB4F?style=for-the-badge&labelColor=black&logo=Docker&logoColor=yellow)](#)
+Thank you for visiting my little place on Github! Hope you have an awesome day!
+
+#### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rahull97.rahull97)
+
+<!--#### Github Stats
+
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahull97&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/rahull97/github-readme-stats)
 -->
