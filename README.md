@@ -5,13 +5,15 @@ My name is Rahul Lalwani and I am a Big Data and Cloud Developer. I'm from India
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rahul-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-lalwani-437756148/)
-[![Instagram Badge](https://img.shields.io/badge/-rahul.l97-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rahul.l97)
 [![Mail Badge](https://img.shields.io/badge/-Rahul-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rahul.lalwani124@gmail.com)
 
+<!--[![Instagram Badge](https://img.shields.io/badge/-rahul.l97-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rahul.l97)
+-->
+
 - 🔭 I’m currently working at Abzooba
-- :computer: I am currently writing fast and efficient Python(:heart:) and Scala at work
-- :seedling: I am currently learning Hive and Airflow
-- :pencil: Apart from coding I also maintain a blog. You can find my articles on [Medium](https://medium.com/@rahull97)
+- :computer: I'm currently writing fast and efficient Python(:heart:) and Scala at work
+- :seedling: I'm currently learning Hive and Airflow
+- :writing_hand: Apart from coding I also maintain a blog. You can find my articles on [Medium](https://medium.com/@rahull97)
 - 📫 How to reach me: rahul.lalwani124@gmail.com.
 - ⚡ Fun fact: I love to play and watch Football. I am avid Liverfool FC fan.
 
