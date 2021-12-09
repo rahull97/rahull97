@@ -20,15 +20,16 @@ My name is Rahul Lalwani and I am a Big Data and Cloud Developer. I'm from India
 [![Scala Badge](https://img.shields.io/badge/-Scala-3C873A?style=for-the-badge&labelColor=black&logo=scala&logoColor=61DBFB)](#)
 [![Spark Badge](https://img.shields.io/badge/-Spark-61DBFB?style=for-the-badge&labelColor=black&logo=ApacheSpark&logoColor=yello)](#)
 [![Kafka Badge](https://img.shields.io/badge/-Kafka-e535ab?style=for-the-badge&labelColor=black&logo=ApacheKafka&logoColor=yello)](#)
-[![Docker Badge](https://img.shields.io/badge/-Docker-F0DB4F?style=for-the-badge&labelColor=black&logo=Docker&logoColor=yellow)](#)
-[![Druid Badge](https://img.shields.io/badge/-Druid-3C873A?style=for-the-badge&labelColor=black&logo=ApacheDruid&logoColor=61DBFB)](#)
-[![AWS Badge](https://img.shields.io/badge/-AWS-61DBFB?style=for-the-badge&labelColor=black&logo=AmazonAWS&logoColor=yellow)](#)
+[![AWS Badge](https://img.shields.io/badge/-AWS-F0DB4F?style=for-the-badge&labelColor=black&logo=AmazonAWS&logoColor=yellow)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-3C873A?style=for-the-badge&labelColor=black&logo=Docker&logoColor=blue)](#)
+[![Druid Badge](https://img.shields.io/badge/-Druid-61DBFB?style=for-the-badge&labelColor=black&logo=ApacheDruid&logoColor=61DBFB)](#)
+[![Grafana Badge](https://img.shields.io/badge/-Grafana-e535ab?style=for-the-badge&labelColor=black&logo=Grafana&logoColor=yellow)](#)
 
 Thank you for visiting my little place on Github! Hope you have an awesome day!
 
-#### Profile Visits
+<!--#### Profile Visits-->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rahull97.rahull97)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=rahull97.rahull97)-->
 
 <!--#### Github Stats
 
