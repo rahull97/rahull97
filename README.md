@@ -4,8 +4,6 @@
 
 ### Data Engineer · Building resilient data platforms on AWS
 
-**Software Engineer II at JPMorgan Chase · Mumbai, India**
-
 *Show up every day. Build it to last. Never stop learning.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahull97-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahull97/)
