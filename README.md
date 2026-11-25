@@ -6,7 +6,7 @@
 
 **Software Engineer II at JPMorgan Chase · Mumbai, India**
 
-> *Show up every day. Build it to last. Never stop learning.*
+*Show up every day. Build it to last. Never stop learning.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahull97-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahull97/)
 [![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:techrahullalwani@gmail.com)
