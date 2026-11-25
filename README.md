@@ -2,13 +2,11 @@
 
 # Hey, I'm Rahul 👋
 
-<a href="https://github.com/rahull97">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Data+Engineer+%40+JPMorgan+Chase;Consistent+effort.+Compounding+results.;7%2B+years+in+data+and+still+learning+every+day;I+build+data+platforms+that+don't+give+up" alt="Typing intro" />
-</a>
+### Data Engineer · Building resilient data platforms on AWS
 
-**Data Engineer · Software Engineer II at JPMorgan Chase · Mumbai, India**
+**Software Engineer II at JPMorgan Chase · Mumbai, India**
 
-*Show up every day. Build it to last. Never stop learning.*
+> *Show up every day. Build it to last. Never stop learning.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahull97-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahull97/)
 [![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:techrahullalwani@gmail.com)
