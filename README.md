@@ -155,19 +155,6 @@ class Rahul:
 
 ---
 
-### 📊 GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahull97&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahull97&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=rahull97&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's talk
