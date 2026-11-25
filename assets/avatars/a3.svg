@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+<rect width="500" height="500" fill="#F6F8FA"/>
+<g transform="translate(250 235)">
+<ellipse cx="0" cy="-90" rx="120" ry="34" fill="#1F6FEB"/>
+<path d="M-120 -90 V-20 A120 34 0 0 0 120 -20 V-90 A120 34 0 0 1 -120 -90Z" fill="#388BFD"/>
+<path d="M-120 -5 V65 A120 34 0 0 0 120 65 V-5 A120 34 0 0 1 -120 -5Z" fill="#58A6FF"/>
+<path d="M-120 80 V150 A120 34 0 0 0 120 150 V80 A120 34 0 0 1 -120 80Z" fill="#79C0FF"/>
+<text x="0" y="-78" text-anchor="middle" font-family="DejaVu Sans, Arial" font-weight="700" font-size="40" fill="#F0F6FC">RL</text>
+</g></svg>

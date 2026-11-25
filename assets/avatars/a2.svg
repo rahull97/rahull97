@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+<rect width="500" height="500" fill="#0D1117"/>
+<g fill="none" stroke-width="10" stroke-linecap="round">
+<path d="M90 150 H200 C240 150 240 250 280 250 H410" stroke="#58A6FF"/>
+<path d="M90 250 H410" stroke="#3FB950"/>
+<path d="M90 350 H200 C240 350 240 250 280 250" stroke="#F78166"/></g>
+<g fill="#0D1117" stroke-width="10"><circle cx="90" cy="150" r="22" stroke="#58A6FF"/><circle cx="90" cy="250" r="22" stroke="#3FB950"/><circle cx="90" cy="350" r="22" stroke="#F78166"/></g>
+<circle cx="410" cy="250" r="44" fill="#F0F6FC"/>
+<text x="410" y="266" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-weight="700" font-size="44" fill="#0D1117">RL</text>
+</svg>
